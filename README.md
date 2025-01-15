@@ -32,4 +32,4 @@ Make sure you have Flutter installed on your machine. You can download Flutter f
 
 ```bash
 git clone https://github.com/yourusername/hive_trending_posts.git
-cd hive_trending_posts
+cd sntask
